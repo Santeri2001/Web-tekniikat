@@ -1,9 +1,20 @@
-h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+body {
+    background-color: greenyellow;
     text-align: center;
 }
 
-.div {
-    border: 1px solid black;
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 6em;
+}
+
+nav {
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 

@@ -10,8 +10,9 @@ h1 {
 
 nav {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: black;
+    background-color: yellow;
     font-size: large;
+    border-bottom: solid black;
 }
 
 h3 {
@@ -28,8 +29,8 @@ div.accordion {
 }
 
 h2 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 7em;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 6em;
 }
 
 p.lintu {

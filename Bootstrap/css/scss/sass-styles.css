@@ -1,9 +1,10 @@
+
 body {
   background-color: greenyellow;
   text-align: center;
 }
 
-h1 {
+h1, h2 {
   font-family: "Times New Roman", Times, serif;
   font-size: 6em;
 }
@@ -28,14 +29,17 @@ div.accordion {
   font-size: 20px;
 }
 
-h2 {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 6em;
-}
-
 p.lintu {
   font-size: 2em;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+div > p {
+  color: rgb(126, 126, 126);
+}
+
+h2 ~ p {
+  color:brown;
 }
 
 /*# sourceMappingURL=sass-styles.css.map */

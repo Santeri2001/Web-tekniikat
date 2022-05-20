@@ -1,22 +1,26 @@
+$background-color1: greenyellow; 
+$font-family1: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+$font-size1: 6em;
+
 body {
-    background-color: greenyellow;
+    background-color: $background-color1;
     text-align: center;
 }
 
 h1 {
     font-family:'Times New Roman', Times, serif;
-    font-size: 6em;
+    font-size: $font-size1;
 }
 
 nav {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: $font-family1;
     background-color: yellow;
     font-size: large;
     border-bottom: solid black;
 }
 
 h3 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: $font-family1;
 }
 
 div.accordion {
@@ -24,16 +28,16 @@ div.accordion {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: $font-family1;
     font-size: 20px;
 }
 
 h2 {
     font-family:'Times New Roman', Times, serif;
-    font-size: 6em;
+    font-size: $font-size1;
 }
 
 p.lintu {
     font-size: 2em;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: $font-family1;
 }

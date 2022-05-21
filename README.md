@@ -3,5 +3,5 @@
 Hei! Olen Santeri Lassila
 
 Täällä on mun Lintu-sivu, jota muokkailen silloin tällöin. Kuvat on ladattu pixabaysta.
-Sivulla on käytetty SCSS ja Dynaamista muokkausta.
+Sivulla on käytetty mm. SCSS ja Dynaamista muokkausta.
 
